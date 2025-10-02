@@ -2,3 +2,5 @@
 https://help.tableau.com/current/guides/get-started-tutorial/ja-jp/get-started-tutorial-home.htm
 
 メモ
+ステップ 7: プレゼンテーション用ストーリーの構築まで実施。
+ステップ 8: 結果を他のユーザーと共有するは省略。
